@@ -1,0 +1,51 @@
+{
+  "name": "Don't Push #14",
+  "description": "When you feel like life is bad, it can really make you mad. Just draw a smiley face, at a quick pace, and you'll be happy and glad",
+  "image": "ipfs://Qmd7G2ZCiHheH6qaf2a94WNpTuFUiF4b1bgumMbtq37gtG/14.png",
+  "dna": "b6337970e2769f0472674f8863ad4d34393cb5b0",
+  "edition": 14,
+  "date": 1658414610952,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "_0246_purpleblend"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "_0232_AntonioWhite"
+    },
+    {
+      "trait_type": "Face",
+      "value": "_0183_brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "_0177_Eye"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "_0159_angryBrown"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "_0179_unhappy"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "_0122_sideburnsBrown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "_0052_younggunBlonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "_0258_blank"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "_0015_Sick1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
